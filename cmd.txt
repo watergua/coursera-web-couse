@@ -1,0 +1,2 @@
+cd /d D:\github\coursera-web-couse
+browser-sync start --server --directory --files "*"
